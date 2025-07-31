@@ -56,13 +56,6 @@ All visualizations dynamically respond to slicers and filters.
 
 ---
 
-## 📽️ Preview
-
-[![Click to Watch Dashboard Demo](./https://drive.google.com/file/d/1P5nTK-4cYXI8GohcpkSDOn5eAe4mma7G/view?usp=sharing)](./https://drive.google.com/file/d/1r6dLrsVGF9sqRZzjfKvmuN9BBTpZM52X/view?usp=sharing)
-
-
----
-
 ## ✅ How to Use
 
 1. Open the Excel file.
