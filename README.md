@@ -58,7 +58,7 @@ All visualizations dynamically respond to slicers and filters.
 
 ## 📽️ Preview
 
-![Dashboard Preview](./Hospital_Operations_Dashboard.jpg)
+![Dashboard Preview]((https://drive.google.com/file/d/1r6dLrsVGF9sqRZzjfKvmuN9BBTpZM52X/view?usp=sharing))
 
 ---
 
